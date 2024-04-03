@@ -17,7 +17,8 @@ Aplikasi ini berfungsi untuk mengkonversi nilai suhu dari satu skala suhu ke ska
 
 - Convert temp value
 
-![App Screenshot](https://github.com/najibrobbani74/youtube-downloader-Laravel/blob/master/public/docs/searching.png?raw=true)
-![App Screenshot](https://github.com/najibrobbani74/youtube-downloader-Laravel/blob/master/public/docs/result-searching.png?raw=true)
+![App Screenshot](https://github.com/najibrobbani74/temp-converter/blob/main/docs/screenshoot/ss-3.png?raw=true)
+![App Screenshot](https://github.com/najibrobbani74/temp-converter/blob/main/docs/screenshoot/ss-2.png?raw=true)
+![App Screenshot](https://github.com/najibrobbani74/temp-converter/blob/main/docs/screenshoot/ss-1.png?raw=true)
 
 This application functions to convert temperature values from one temperature scale to another.
