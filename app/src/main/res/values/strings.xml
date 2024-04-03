@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="fahrenheit_symbol" translatable="false">℉</string>
+    <string name="celsius">Celsius</string>
+    <string name="celsius_symbol" translatable="false">℃</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="kelvin_symbol" translatable="false">K</string>
+    <string name="reamur">Réaumur</string>
+    <string name="reamur_symbol" translatable="false">ºR</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="temp_value">Temperature Value</string>
+    <string name="overview">This application functions to convert temperature values from one temperature scale to another. Please enter the temperature value and select the temperature scale. Then click the \"Convert\" button</string>
+    <string name="convert">Convert</string>
+    <string name="share">Share</string>
+    <string name="temp_value_hint">Enter the temperature value to be converted</string>
+    <string name="temp_value_error">The temperature value cannot be empty</string>
+    <string name="about_button_description">About application button</string>
+    <string name="back_button_description">Back button</string>
+    <string name="input_result_template">Input = %1$.2f %2$s</string>
+    <string name="share_template">Convert temperature from %1$s to %2$s\n\nInput temperature value = %3$.2f %4$s \nConversion result = %5$.2f %6$s</string>
+    <string name="bagikan_template" translatable="false">Berat badan: %1$s kg\nTinggi badan: %2$s cm\nJenis kelamin: %3$s\n\nBMI: %4$.2f\n%5$s</string>
+    <string name="about_page_overview">This application functions to convert temperature values from one temperature scale to another. You only need to enter the temperature value and select the temperature scale.\n\nThe temperature scale value can be set into four types of temperature scale, namely Celsius (C), Farenheit (F), Reamur (R), and Kelvin (K). The temperature scale will be based on two exact points, namely the lower fixed point and the upper fixed point. The bottom point indicates the freezing point, while the top point indicates the boiling point.</string>
+    <string name="copyright" translatable="false">Copyright © 2024 Muhammad Najib Robbani.\nAll rights reserved.</string>
+    <string name="see_explanation">See Explanation</string>
+    <string name="result">Result</string>
+</resources>

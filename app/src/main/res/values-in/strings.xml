@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TempConverter</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="reamur">Reamur</string>
+    <string name="from">Dari</string>
+    <string name="to">Ke</string>
+    <string name="temp_value">Nilai Suhu</string>
+    <string name="overview">Aplikasi ini berfungsi untuk mengkonversi nilai suhu dari satu skala suhu ke skala suhu lainnya. silahkan masukkan nilai suhu dan pilih skala suhu. Kemudian klik tombol \"Konversi\"</string>
+    <string name="convert">Konversi</string>
+    <string name="temp_value_hint">Masukkan nilai suhu yang akan di konversi</string>
+    <string name="temp_value_error">Nilai suhu tidak boleh kosong</string>
+    <string name="about_button_description">Tombol tentang aplikasi</string>
+    <string name="input_result_template">Masukan = %1$.2f %2$s</string>
+    <string name="back_button_description">Tombol kembali</string>
+    <string name="share_template">Konversi suhu dari %1$s ke %2$s\n\nNilai suhu masukan = %3$.2f %4$s \nHasil konversi = %5$.2f %6$s</string>
+    <string name="about_page_overview">Aplikasi ini berfungsi untuk mengkonversi nilai suhu dari satu skala suhu ke skala suhu lainnya. anda hanya perlu memasukkan nilai suhu dan memilih skala suhu.\n\nNilai skala suhu dapat diatur ke dalam empat jenis skala suhu, yaitu Celsius (C), Farenheit (F), Reamur (R), dan Kelvin(K). Adapun skala suhu akan didasarkan pada dua titik tepat, yaitu titik tetap bawah dan titik tetap atas. Titik bawah menandakan titik beku, sementara itu titik atas menunjukkan titik didih. </string>
+    <string name="share">Bagikan</string>
+    <string name="result">Hasil</string>
+    <string name="see_explanation">Lihat Penjelasan</string>
+</resources>
